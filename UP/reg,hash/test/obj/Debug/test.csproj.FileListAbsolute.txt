@@ -1,0 +1,13 @@
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\bin\Debug\GachiTours.exe.config
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\bin\Debug\GachiTours.exe
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\bin\Debug\GachiTours.pdb
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\GachiTours.Form1.resources
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\GachiTours.log_in.resources
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\GachiTours.Properties.Resources.resources
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\GachiTours.Регистрация.resources
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\GachiTours.exe
+C:\Users\daimo\Desktop\Klenina\7sem\UP\reg,hash\test\obj\Debug\GachiTours.pdb

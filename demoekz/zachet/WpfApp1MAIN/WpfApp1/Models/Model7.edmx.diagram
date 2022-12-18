@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2a399e3d0b0644bfaf941eb4dc387886" Name="Diagram1">
+        <EntityTypeShape EntityType="TourAgencyMKModel.Country" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TourAgencyMKModel.Hotel" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TourAgencyMKModel.HotelImage" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TourAgencyMKModel.Role" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TourAgencyMKModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TourAgencyMKModel.Tour" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TourAgencyMKModel.Type" Width="1.5" PointX="7.5" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="TourAgencyMKModel.User" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="TourAgencyMKModel.FK_Hotel_Countries" ManuallyRouted="false" />
+        <AssociationConnector Association="TourAgencyMKModel.FK_HotelImage_Hotel" ManuallyRouted="false" />
+        <AssociationConnector Association="TourAgencyMKModel.FK_User_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="TourAgencyMKModel.TourHotel" ManuallyRouted="false" />
+        <AssociationConnector Association="TourAgencyMKModel.TourTypes" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
